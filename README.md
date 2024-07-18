@@ -22,12 +22,10 @@ A ferramenta usa uma tela construida com python + customtkinter, o código para 
 
 ![image](https://github.com/user-attachments/assets/7b1c25ea-e211-46fc-ad91-a43d25c2420f)
 
+1 - Já esteja ciente que o script acusará no antivirus como arquivo perigoso (caso queira falar comigo pessoalmente meu discord está no vídeo)
 
 
-1 -  Instale as bibliotecas necessárias com pip install ( todas que você não tiver )
-
-
-2 -  Execute o script.
+2 -  Execute o arquivo .exe logo depois de baixar os .ico e o executável na mesma pasta.
 
 
 3 -  No campo "Gerar javascript" coloque o tempo do delay em segundos (esse será o tempo que o código js vai esperar a cada requisição de dowload)
