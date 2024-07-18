@@ -3,7 +3,7 @@
 
 import customtkinter as ctk
 from tkinter import filedialog
-from PIL import Image, ImageTk  # Uso para imagens
+from PIL import Image, ImageTk
 import pyperclip
 import os
 from bs4 import BeautifulSoup
@@ -20,7 +20,7 @@ def abrir_discord():
 
 def analizaDados():
     diretorio = input_name1.get()
-    caminho_arquivo_saida = f'{input_name2.get()}/resultado.txt'
+    caminho_arquivo_saida = f'{input_name2.get()}/resultado.txt'  # Mude essa campo caso queira que o arquivo txt de saída tenha outro nome
 
     if not os.path.isdir(diretorio) or not os.path.isdir(os.path.dirname(caminho_arquivo_saida)):
         print(f'Diretório inválido: {diretorio} ou {os.path.dirname(caminho_arquivo_saida)}')
@@ -64,7 +64,7 @@ def analizaDados():
             arquivo_saida.write(f"Server: {nome_server.text}\n")
             arquivo_saida.write("------------------------\n")
 
-        # Imprimir nomes repetidos e suas contagens no final
+
         arquivo_saida.write("Nomes repetidos:\n")
         for nome, quantidade in nomes_contagem.items():
             if quantidade > 1:
