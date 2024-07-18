@@ -30,14 +30,34 @@ A ferramenta usa uma tela construida com python + customtkinter, o código para 
 
 
 4 -  Clique em gerar e o script será copiado para sua área de transfererência
+
+
 5 -  Use o discord no navegador e de preferência no google
+
+
 6 -  Vá na página que você deseja analizar reduzar o zoom da página ao máximo (para carregar todo conteúdo possível html)
+
+
 7 -  Pressione CONTROL+SHIFT+I para abrir o menu inspecionar
+
+
 8 -  Na aba console digite:  allow pasting()          (Isso habilitará colar conteúdos)
+
+
 9 -  Cole o script e veja que de acordo com o tempo configurado um pedaço do html da página é baixado 
      obs: (você pode deixar baixando para monitorar vários servidores ao mesmo tempo)
+
+     
 10 - Vá nas permissões da página e permita dowloads automáticos
+
+
 11 - Em "PASTA ANÁLISE" coloque a pasta onde você tem salvo os arquivos html baixados.
+
+
 12 - Em "RESULTADO ANÁLISE" coloque a pasta onde será salvo o arquivo txt com os resultados
+
+
 13 - Agora clique em análise se tudo ocorrer bem receberás uma mensagem de sucesso
+
+
 14 - Abra o arquivo txt gerado filtre pelo log necessário usando CONTROL+F 
