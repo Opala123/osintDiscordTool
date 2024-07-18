@@ -20,6 +20,10 @@ A ferramenta usa uma tela construida com python + customtkinter, o código para 
 
 # ** MANUAL DE COMO USAR A FERRAMENTA: **
 
+![image](https://github.com/user-attachments/assets/7b1c25ea-e211-46fc-ad91-a43d25c2420f)
+
+
+
 1 -  Instale as bibliotecas necessárias com pip install ( todas que você não tiver )
 
 
