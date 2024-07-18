@@ -21,8 +21,14 @@ A ferramenta usa uma tela construida com python + customtkinter, o código para 
 # ** MANUAL DE COMO USAR A FERRAMENTA: **
 
 1 -  Instale as bibliotecas necessárias com pip install ( todas que você não tiver )
+
+
 2 -  Execute o script.
+
+
 3 -  No campo "Gerar javascript" coloque o tempo do delay em segundos (esse será o tempo que o código js vai esperar a cada requisição de dowload)
+
+
 4 -  Clique em gerar e o script será copiado para sua área de transfererência
 5 -  Use o discord no navegador e de preferência no google
 6 -  Vá na página que você deseja analizar reduzar o zoom da página ao máximo (para carregar todo conteúdo possível html)
