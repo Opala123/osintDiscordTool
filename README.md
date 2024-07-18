@@ -5,7 +5,7 @@ Ferramenta Open Source Intelligence para Discord. Com ela você pode **monitorar
 # Qual propósito da aplicação? 
 
 
-Monitorar logs de pessoas em chamadas de voz em qualquer servidor sem permissões de administração. É possível receber logs das pessoas que estiveram em chamadas nos servidores de análise, além de poder filtrar por tempo estimado em que essas pessoas permaneceram nas chamadas.
+Monitorar logs de pessoas em chamadas de voz em qualquer servidor mesmo sem permissões de administração. É possível receber logs das pessoas que estiveram em chamadas nos servidores de análise, além de poder filtrar por tempo estimado em que essas pessoas permaneceram nas chamadas.
 
 # Quando isso seria útil para mim? 
 
